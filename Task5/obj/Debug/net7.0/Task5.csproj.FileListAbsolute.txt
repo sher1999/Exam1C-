@@ -1,0 +1,15 @@
+D:\coftclub\C#\week1\Exam1\Task5\bin\Debug\net7.0\Task5.exe
+D:\coftclub\C#\week1\Exam1\Task5\bin\Debug\net7.0\Task5.deps.json
+D:\coftclub\C#\week1\Exam1\Task5\bin\Debug\net7.0\Task5.runtimeconfig.json
+D:\coftclub\C#\week1\Exam1\Task5\bin\Debug\net7.0\Task5.dll
+D:\coftclub\C#\week1\Exam1\Task5\bin\Debug\net7.0\Task5.pdb
+D:\coftclub\C#\week1\Exam1\Task5\obj\Debug\net7.0\Task5.csproj.AssemblyReference.cache
+D:\coftclub\C#\week1\Exam1\Task5\obj\Debug\net7.0\Task5.GeneratedMSBuildEditorConfig.editorconfig
+D:\coftclub\C#\week1\Exam1\Task5\obj\Debug\net7.0\Task5.AssemblyInfoInputs.cache
+D:\coftclub\C#\week1\Exam1\Task5\obj\Debug\net7.0\Task5.AssemblyInfo.cs
+D:\coftclub\C#\week1\Exam1\Task5\obj\Debug\net7.0\Task5.csproj.CoreCompileInputs.cache
+D:\coftclub\C#\week1\Exam1\Task5\obj\Debug\net7.0\Task5.dll
+D:\coftclub\C#\week1\Exam1\Task5\obj\Debug\net7.0\refint\Task5.dll
+D:\coftclub\C#\week1\Exam1\Task5\obj\Debug\net7.0\Task5.pdb
+D:\coftclub\C#\week1\Exam1\Task5\obj\Debug\net7.0\Task5.genruntimeconfig.cache
+D:\coftclub\C#\week1\Exam1\Task5\obj\Debug\net7.0\ref\Task5.dll
