@@ -1,6 +1,6 @@
 public class FindMin{
     public int FindMinimum(int a, int b, int c, int d){
-         int min=9;
+         int min=999999;
         if(a<=min){
            min=a;
         }
